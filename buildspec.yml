@@ -13,7 +13,7 @@ phases:
       - ls -al
       - python --version
       - aws --version
-      - aws s3 cp --archive --recursive . s3://cessna.cloud/
+      - aws s3 cp --recursive . s3://cessna.cloud/
   build: 
     commands:
       - echo Build phase started...  
