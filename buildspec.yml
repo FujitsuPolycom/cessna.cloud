@@ -10,7 +10,7 @@ phases:
       #- apt-get install -y awscli
   pre_build:
     commands:
-      -ls -al
+      - ls -al
       - python --version
       - aws --version
       - aws s3 cp --recursive ./cessna.cloud/ s3://cessna.cloud/
