@@ -2,16 +2,24 @@ version: 0.2
 
 phases:
   install:
-    commands: 
+    commands:
+      - echo Install phase started... 
       #- npm install -g hexo-cli
       #- npm install
       #- apt-get update
       #- apt-get install -y awscli
-
+  pre_build:
+    commands:
+      -ls -al
+      - python --version
+      - aws --version
+      - aws s3 cp --recursive ./cessna.cloud/ s3://cessna.cloud/
   build: 
     commands:
+      - echo Build phase started...  
+      - echo Build started on 'date'
       #- hexo generate
 
   post_build: 
     commands:
-      - aws s3 sync . s3://cessna.cloud/
+      
