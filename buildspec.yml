@@ -14,6 +14,7 @@ phases:
       - python --version
       - aws --version
       #- aws s3 cp --recursive . s3://cessna.cloud/
+      
       #Let's try sync instead. cp force recurse is kinda dirty
       - aws s3 sync . s3://cessna.cloud/      
 
