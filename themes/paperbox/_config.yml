@@ -3,8 +3,8 @@ menu:
   Home: /
   Archives: /archives
   About: /about
-rss: /atom.xml
-github: https://github.com/myname
+#rss: /atom.xml
+github: https://github.com/FujitsuPolycom
 logo_title: PCC
 blog_title: Cessna.Cloud
 
@@ -24,7 +24,7 @@ widgets:
 wx_block: false
 google_analytics:
 favicon:
-twitter:
+twitter: https://twitter.com/FujitsuPolycom
 google_plus:
 fb_admins:
 fb_app_id:
