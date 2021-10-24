@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Cessna.cloud
+title: Cessna.Cloud
 subtitle: ''
 description: ''
 keywords:
@@ -68,7 +68,15 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  Outdoors: Outdoors
+  Cloud: Cloud
+  AWS: AWS
 tag_map:
+  aws: AWS
+  hiking: hiking
+  camping: camping
+  cloud: cloud
+  devops: devops
 
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
