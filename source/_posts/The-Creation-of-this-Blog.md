@@ -1,5 +1,6 @@
 ---
-title: The First Post
+title: The Blog is Up!
+subtitle: Welcome to my blog and first official post.
 date: 2021-10-24 01:15:45
 tags: 
   - CI/CD 
