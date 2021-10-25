@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Cessna.Cloud
-subtitle: ''
+title: Cody Cessna
+subtitle: DevSecPubNumOps
 description: ''
 keywords:
 author: Cody Cessna
@@ -98,6 +98,8 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: clean-blog
+
+#clean-blog
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

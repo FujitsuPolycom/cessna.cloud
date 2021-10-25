@@ -3,6 +3,7 @@ title: The Blog is Up!
 subtitle: Welcome to my blog and first official post.
 category: Tech
 date: 2021-10-24 01:15:45
+cover_image: /images/3.jpg
 tags: 
   - CI/CD 
   - Cloud 
