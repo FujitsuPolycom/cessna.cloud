@@ -17,7 +17,7 @@ Welcome to my blog and first official post. The plan is to document my adventure
 
 Currently my technology interests lie in all things cloud, linux, infrastructure as code, and automation. My day job doesn't present many oppurtunities for experimentation with the latest and greatest of the technologies listed above so what you'll find here will be a whole lot of home lab dabblings. 
 
-In the backpacking category I see myself mostly posting trip reports. I have roughly a backlog of trips to document as well as many future adventures.
+In the backpacking category I see myself mostly posting trip reports. I have a backlog of trips to document as well as many future adventures planned.
 
 ### The Technical Deets
 
@@ -40,5 +40,5 @@ $ hexo generate
 $ cd public/ && aws s3 sync . s3://websitebucket/
 ```
 
-That's the quick and dirty. I'll do an entire write on this soon.
+That's the quick and dirty. I'll do an entire write up on this soon.
 

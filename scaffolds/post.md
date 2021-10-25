@@ -1,5 +1,11 @@
 ---
 title: {{ title }}
+subtitle: Post subtitle.
 date: {{ date }}
-tags:
+cover_image:
+category: Tech
+tags: 
+  - Cloud 
+  - AWS
+  - backpacking
 ---
