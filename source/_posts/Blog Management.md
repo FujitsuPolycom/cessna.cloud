@@ -1,6 +1,6 @@
 ---
 title: Blog Management
-date: 2021-11-05 15:16:41
+date: 2021-11-04 15:16:41
 subtitle: Local post creation, deletion, testing. Git commit, codebuild deployment, etc
 category: 
   - Tech
