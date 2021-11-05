@@ -12,7 +12,7 @@ tags:
   - homelab
 ---
 
-### What Even Is This
+### What Is This?
 Welcome to my blog and first official post. The plan is to document my adventures in all things technology and backpacking. Yep, that's right, my yin and yang of hobbies. 
 
 Currently my technology interests lie in all things cloud, linux, infrastructure as code, and automation. My day job doesn't present many oppurtunities for experimentation with the latest and greatest of the technologies listed above so what you'll find here will be a whole lot of home lab dabblings. 

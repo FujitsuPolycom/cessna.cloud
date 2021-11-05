@@ -12,6 +12,7 @@ phases:
   build: 
     commands:
       - echo Build phase started...
+      - hexo clean
       - hexo generate
       
   post_build: 
