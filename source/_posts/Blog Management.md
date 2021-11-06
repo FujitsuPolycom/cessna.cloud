@@ -1,7 +1,7 @@
 ---
-title: Blog Management w/ Hexo
+title: Blog Management with Hexo
 date: 2021-11-04 15:16:41
-subtitle: Local post creation, deletion, testing. Git commit, codebuild deployment, etc
+subtitle: Local post creation, deletion, and testing.
 category: 
   - Tech
   - Devops
